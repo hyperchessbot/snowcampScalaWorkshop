@@ -1,0 +1,3 @@
+[submodule "scalachessjs"]
+	path = scalachessjs
+	url = https://github.com/hyperchessbot/scalachessjs
